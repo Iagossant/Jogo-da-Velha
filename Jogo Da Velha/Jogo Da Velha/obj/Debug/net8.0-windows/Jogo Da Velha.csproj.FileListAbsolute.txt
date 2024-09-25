@@ -1,0 +1,57 @@
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo_Da_Velha.Form1.resources
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo_Da_Velha.Properties.Resources.resources
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo_Da_Velha.Vs_Jogador.resources
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo Da Velha.csproj.GenerateResource.cache
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo Da Velha.GeneratedMSBuildEditorConfig.editorconfig
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo Da Velha.AssemblyInfoInputs.cache
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo Da Velha.AssemblyInfo.cs
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo Da Velha.csproj.CoreCompileInputs.cache
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\bin\Debug\net8.0-windows\Jogo Da Velha.exe
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\bin\Debug\net8.0-windows\Jogo Da Velha.deps.json
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\bin\Debug\net8.0-windows\Jogo Da Velha.runtimeconfig.json
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\bin\Debug\net8.0-windows\Jogo Da Velha.dll
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\bin\Debug\net8.0-windows\Jogo Da Velha.pdb
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo Da Velha.dll
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\refint\Jogo Da Velha.dll
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo Da Velha.pdb
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo Da Velha.genruntimeconfig.cache
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\ref\Jogo Da Velha.dll
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo_Da_Velha.Vs_Computador.resources
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\bin\Debug\net8.0-windows\Jogo Da Velha.exe
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\bin\Debug\net8.0-windows\Jogo Da Velha.deps.json
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\bin\Debug\net8.0-windows\Jogo Da Velha.runtimeconfig.json
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\bin\Debug\net8.0-windows\Jogo Da Velha.dll
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\bin\Debug\net8.0-windows\Jogo Da Velha.pdb
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo_Da_Velha.Form1.resources
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo_Da_Velha.Properties.Resources.resources
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo_Da_Velha.Vs_Computador.resources
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo_Da_Velha.Vs_Jogador.resources
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo Da Velha.csproj.GenerateResource.cache
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo Da Velha.GeneratedMSBuildEditorConfig.editorconfig
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo Da Velha.AssemblyInfoInputs.cache
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo Da Velha.AssemblyInfo.cs
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo Da Velha.csproj.CoreCompileInputs.cache
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo Da Velha.dll
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\refint\Jogo Da Velha.dll
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo Da Velha.pdb
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo Da Velha.genruntimeconfig.cache
+D:\Informática\Turma 09\Iago\Jogos - Iago\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\ref\Jogo Da Velha.dll
+\\info\Informática\Turma 09\Iago\Jogos - Iago - Copia\Jogo Da Velha\Jogo Da Velha\bin\Debug\net8.0-windows\Jogo Da Velha.exe
+\\info\Informática\Turma 09\Iago\Jogos - Iago - Copia\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo_Da_Velha.Form1.resources
+\\info\Informática\Turma 09\Iago\Jogos - Iago - Copia\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo_Da_Velha.Properties.Resources.resources
+\\info\Informática\Turma 09\Iago\Jogos - Iago - Copia\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo_Da_Velha.Vs_Computador.resources
+\\info\Informática\Turma 09\Iago\Jogos - Iago - Copia\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo_Da_Velha.Vs_Jogador.resources
+\\info\Informática\Turma 09\Iago\Jogos - Iago - Copia\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo Da Velha.csproj.GenerateResource.cache
+\\info\Informática\Turma 09\Iago\Jogos - Iago - Copia\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo Da Velha.GeneratedMSBuildEditorConfig.editorconfig
+\\info\Informática\Turma 09\Iago\Jogos - Iago - Copia\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo Da Velha.AssemblyInfoInputs.cache
+\\info\Informática\Turma 09\Iago\Jogos - Iago - Copia\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo Da Velha.AssemblyInfo.cs
+\\info\Informática\Turma 09\Iago\Jogos - Iago - Copia\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo Da Velha.csproj.CoreCompileInputs.cache
+\\info\Informática\Turma 09\Iago\Jogos - Iago - Copia\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo Da Velha.dll
+\\info\Informática\Turma 09\Iago\Jogos - Iago - Copia\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\refint\Jogo Da Velha.dll
+\\info\Informática\Turma 09\Iago\Jogos - Iago - Copia\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo Da Velha.pdb
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago - Copia\Jogo Da Velha\Jogo Da Velha\bin\Debug\net8.0-windows\Jogo Da Velha.deps.json
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago - Copia\Jogo Da Velha\Jogo Da Velha\bin\Debug\net8.0-windows\Jogo Da Velha.runtimeconfig.json
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago - Copia\Jogo Da Velha\Jogo Da Velha\bin\Debug\net8.0-windows\Jogo Da Velha.dll
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago - Copia\Jogo Da Velha\Jogo Da Velha\bin\Debug\net8.0-windows\Jogo Da Velha.pdb
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago - Copia\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\Jogo Da Velha.genruntimeconfig.cache
+\\INFO\Informática\Turma 09\Iago\Jogos - Iago - Copia\Jogo Da Velha\Jogo Da Velha\obj\Debug\net8.0-windows\ref\Jogo Da Velha.dll
