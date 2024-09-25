@@ -96,7 +96,7 @@ namespace Jogo_Da_Velha
         {
             fimdejogo = false;
             sequencia = 0;
-            turno = "O";
+            turno = "X";
             lblTurno.Text = $"Turno: {turno}";
             foreach (PictureBox item in Casa)
             {
