@@ -154,7 +154,7 @@ namespace Jogo_Da_Velha
             fimdejogo = false;
             jogou = false;
             sequencia = 0;
-            turno = "O";
+            turno = "X";
             foreach (PictureBox item in Casa)
             {
                 item.Image = null;
